@@ -1,0 +1,4 @@
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMYCheckinClient\obj\Debug\SIMY19CheckIn.EnterLoading.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMYCheckinClient\obj\Debug\SIMYCheckinClient.Form1.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMYCheckinClient\obj\Debug\SIMYCheckinClient.Properties.Resources.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMYCheckinClient\obj\Debug\SIMYCheckinClient.csproj.GenerateResource.Cache

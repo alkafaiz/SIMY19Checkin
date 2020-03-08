@@ -1,0 +1,8 @@
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\bin\Release\SIMY19CheckIn.exe.config
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\bin\Release\SIMY19CheckIn.exe
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\bin\Release\SIMY19CheckIn.pdb
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Release\SIMY19CheckIn.Form1.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Release\SIMY19CheckIn.Properties.Resources.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Release\SIMY19CheckIn.csproj.GenerateResource.Cache
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Release\SIMY19CheckIn.exe
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Release\SIMY19CheckIn.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMY19CheckIn", "SIMY19CheckIn\SIMY19CheckIn.csproj", "{446BA7B3-9031-44A4-86FE-854D10469ED1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SISetup", "SISetup\SISetup.vdproj", "{B8440DD2-E6DD-4394-B576-FED360347CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446BA7B3-9031-44A4-86FE-854D10469ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446BA7B3-9031-44A4-86FE-854D10469ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446BA7B3-9031-44A4-86FE-854D10469ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446BA7B3-9031-44A4-86FE-854D10469ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8440DD2-E6DD-4394-B576-FED360347CCC}.Debug|Any CPU.ActiveCfg = Debug
+		{B8440DD2-E6DD-4394-B576-FED360347CCC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

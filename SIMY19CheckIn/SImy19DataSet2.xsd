@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SImy19DataSet2" targetNamespace="http://tempuri.org/SImy19DataSet2.xsd" xmlns:mstns="http://tempuri.org/SImy19DataSet2.xsd" xmlns="http://tempuri.org/SImy19DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SImy19ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SImy19ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SIMY19CheckIn.Properties.Settings.GlobalReference.Default.SImy19ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PesertaTableAdapter" GeneratorDataComponentClassName="PesertaTableAdapter" Name="Peserta" UserDataComponentName="PesertaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SImy19ConnectionString (Settings)" DbObjectName="SImy19.dbo.Peserta" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nama, gender, email, phone, jenisPeserta, asalNegara, university, paket, panel1, panel2 FROM dbo.Peserta</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nama" DataSetColumn="nama" />
+              <Mapping SourceColumn="gender" DataSetColumn="gender" />
+              <Mapping SourceColumn="email" DataSetColumn="email" />
+              <Mapping SourceColumn="phone" DataSetColumn="phone" />
+              <Mapping SourceColumn="jenisPeserta" DataSetColumn="jenisPeserta" />
+              <Mapping SourceColumn="asalNegara" DataSetColumn="asalNegara" />
+              <Mapping SourceColumn="university" DataSetColumn="university" />
+              <Mapping SourceColumn="paket" DataSetColumn="paket" />
+              <Mapping SourceColumn="panel1" DataSetColumn="panel1" />
+              <Mapping SourceColumn="panel2" DataSetColumn="panel2" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SImy19DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SImy19DataSet2" msprop:Generator_UserDSName="SImy19DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Peserta" msprop:Generator_TableClassName="PesertaDataTable" msprop:Generator_TableVarName="tablePeserta" msprop:Generator_TablePropName="Peserta" msprop:Generator_RowDeletingName="PesertaRowDeleting" msprop:Generator_RowChangingName="PesertaRowChanging" msprop:Generator_RowEvHandlerName="PesertaRowChangeEventHandler" msprop:Generator_RowDeletedName="PesertaRowDeleted" msprop:Generator_UserTableName="Peserta" msprop:Generator_RowChangedName="PesertaRowChanged" msprop:Generator_RowEvArgName="PesertaRowChangeEvent" msprop:Generator_RowClassName="PesertaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nama" msprop:Generator_ColumnVarNameInTable="columnnama" msprop:Generator_ColumnPropNameInRow="nama" msprop:Generator_ColumnPropNameInTable="namaColumn" msprop:Generator_UserColumnName="nama" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="gender" msprop:Generator_ColumnVarNameInTable="columngender" msprop:Generator_ColumnPropNameInRow="gender" msprop:Generator_ColumnPropNameInTable="genderColumn" msprop:Generator_UserColumnName="gender" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="email" msprop:Generator_ColumnVarNameInTable="columnemail" msprop:Generator_ColumnPropNameInRow="email" msprop:Generator_ColumnPropNameInTable="emailColumn" msprop:Generator_UserColumnName="email" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="phone" msprop:Generator_ColumnVarNameInTable="columnphone" msprop:Generator_ColumnPropNameInRow="phone" msprop:Generator_ColumnPropNameInTable="phoneColumn" msprop:Generator_UserColumnName="phone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jenisPeserta" msprop:Generator_ColumnVarNameInTable="columnjenisPeserta" msprop:Generator_ColumnPropNameInRow="jenisPeserta" msprop:Generator_ColumnPropNameInTable="jenisPesertaColumn" msprop:Generator_UserColumnName="jenisPeserta" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="asalNegara" msprop:Generator_ColumnVarNameInTable="columnasalNegara" msprop:Generator_ColumnPropNameInRow="asalNegara" msprop:Generator_ColumnPropNameInTable="asalNegaraColumn" msprop:Generator_UserColumnName="asalNegara" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="university" msprop:Generator_ColumnVarNameInTable="columnuniversity" msprop:Generator_ColumnPropNameInRow="university" msprop:Generator_ColumnPropNameInTable="universityColumn" msprop:Generator_UserColumnName="university" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="paket" msprop:Generator_ColumnVarNameInTable="columnpaket" msprop:Generator_ColumnPropNameInRow="paket" msprop:Generator_ColumnPropNameInTable="paketColumn" msprop:Generator_UserColumnName="paket" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="panel1" msprop:Generator_ColumnVarNameInTable="columnpanel1" msprop:Generator_ColumnPropNameInRow="panel1" msprop:Generator_ColumnPropNameInTable="panel1Column" msprop:Generator_UserColumnName="panel1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="panel2" msprop:Generator_ColumnVarNameInTable="columnpanel2" msprop:Generator_ColumnPropNameInRow="panel2" msprop:Generator_ColumnPropNameInTable="panel2Column" msprop:Generator_UserColumnName="panel2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

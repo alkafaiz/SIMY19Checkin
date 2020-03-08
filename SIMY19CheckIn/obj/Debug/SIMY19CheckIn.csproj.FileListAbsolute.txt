@@ -1,0 +1,54 @@
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.exe.config
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.exe
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.pdb
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.csprojResolveAssemblyReference.cache
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Form1.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Properties.Resources.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.csproj.GenerateResource.Cache
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.exe
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.pdb
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormLogin.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.EnterLoading.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormDataPeserta.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormClientServer.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormCreateClient.resources
+D:\College\Simposium Internasional PPID\SI MY App\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormSelfCheckin.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.exe.config
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.exe
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.pdb
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.exe
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.pdb
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.csprojResolveAssemblyReference.cache
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.EnterLoading.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Form1.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormClientServer.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormCreateClient.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormDataPeserta.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormLogin.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormSelfCheckin.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Properties.Resources.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.csproj.GenerateResource.Cache
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormExitClient.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormParticipantCheckin.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Loading.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormAssignPeserta.resources
+C:\Users\rozza\OneDrive\Desktop\Faiz Visual Studio\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormSession.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.exe.config
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.exe
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.pdb
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.exe
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\bin\Debug\SIMY19CheckIn.pdb
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.EnterLoading.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Form1.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormAssignPeserta.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormClientServer.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormCreateClient.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormDataPeserta.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormExitClient.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormLogin.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormParticipantCheckin.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormSelfCheckin.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.FormSession.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Loading.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.Properties.Resources.resources
+D:\College\Simposium Internasional PPID\SI MY App\v1.4\SIMY19CheckIn\SIMY19CheckIn\obj\Debug\SIMY19CheckIn.csproj.GenerateResource.Cache
